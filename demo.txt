@@ -2,6 +2,4 @@ Hello
 This is a plain text file.
 It's used for demo only.
 change 4
-action10
-xc
-gh
+
